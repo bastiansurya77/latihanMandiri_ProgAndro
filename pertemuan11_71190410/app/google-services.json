@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475238581045",
+    "project_id": "database-firestore-1",
+    "storage_bucket": "database-firestore-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475238581045:android:c6af7acea44130d70d027c",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan11_71190410"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475238581045-99jar7j24qd5oc40f077h866k0ce7j6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS27OMap7g2egjMwaCYieuiFgEwwcv0O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475238581045-99jar7j24qd5oc40f077h866k0ce7j6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
